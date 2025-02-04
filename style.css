@@ -1,0 +1,59 @@
+body {
+
+    width: 800px;
+    margin: auto;
+    font-family: Verdana, sans-serif;
+
+}
+
+H1 {
+    background-color: rgb(55,38,8);
+    color: wheat;
+    padding: 10px;
+    margin-bottom: 0px;
+    
+}
+
+h2 {
+    color: rgb(243,145,1);
+    text-decoration: underline;
+}
+
+li {
+    padding:4px;
+}
+
+img {
+    width: 800px;
+}
+
+video {
+    object-fit: fill;
+}
+
+#hlight {
+    font-weight: bolder;
+    color: rgb(243,145,1);
+    font-size: 14pt;
+}
+
+.entry {
+    background-color: rgb(243,145,1);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.date {
+    color: white;
+    font-style: italic;
+    font-size: 10pt;
+}
+
+.newsImg {
+    width: 40%;
+
+}
+
+
+
+
